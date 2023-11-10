@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6dcfbfd.css",
+    "main.js": "/static/js/main.aefd21e3.js",
+    "static/media/defult-Video.png": "/static/media/defult-Video.776ae5b0b6022fe9c99c.png",
+    "index.html": "/index.html",
+    "main.a6dcfbfd.css.map": "/static/css/main.a6dcfbfd.css.map",
+    "main.aefd21e3.js.map": "/static/js/main.aefd21e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6dcfbfd.css",
+    "static/js/main.aefd21e3.js"
+  ]
+}
